@@ -45,21 +45,8 @@ Privacy risk: MEDIUM–HIGH
 
 Practical finding: Users should distinguish between essential cookies required for functionality and cookies/technologies used for analytics, personalization or advertising.
 
-4. Website Tracking and Third-Party Data
 
-One of the most important privacy concerns is that Meta's data ecosystem is not limited to activity occurring directly on Instagram.
-
-Meta describes receiving information from partners about people's activity on other websites, apps and services. This can occur through technologies such as Meta Pixel, APIs and SDKs.
-
-This can allow information from businesses and other services to contribute to Meta's advertising and personalization systems.
-
-Privacy risk: HIGH
-
-This does not mean Instagram can automatically see everything a person does on the internet.
-
-Instead, the concern is that participating websites and applications may send information to Meta, creating additional data points associated with users or devices.
-
-5. App Permissions
+4. App Permissions
 
 The Instagram mobile application can request access to device capabilities such as:
 
@@ -87,7 +74,7 @@ Background activity	Restrict where practical	Medium
 Important: Contact access deserves particular attention because an address book contains information about other people as well as the user.
 
 
-6. Account Security
+5. Account Security
 
 Privacy also depends on account security.
 
